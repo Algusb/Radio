@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b9707812-a724-4c65-920a-a85b41446cf1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/Radio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/RadioTest.java" afterDir="false" />
     </list>
@@ -40,13 +41,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "/Users/aleksejgusev/Desktop/Projects/Study/java/Radio/src/main/java/ru/netology"
+    "last_directory_selection": "/Users/aleksejgusev/Desktop/Projects/Study/java/Radio/src/main/java/ru/netology",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean test" />
       <command value="mvn clean verify" />
+      <command value="mvn clean test" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.RadioTest.shouldSetStationNumber">
@@ -161,5 +163,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
