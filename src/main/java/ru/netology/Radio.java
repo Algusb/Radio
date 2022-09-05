@@ -31,7 +31,6 @@ public class Radio {
         currentStationNumber = newCurrentStationNumber;
     }
 
-
     public void increaseStationNumber() {
         if (currentStationNumber == stationAmount - 1) {
             currentStationNumber = 0;
@@ -58,7 +57,6 @@ public class Radio {
         }
         currentVolume = newCurrentVolume;
     }
-
 
     public void decreaseVolume() {
         if (currentVolume > 0) {
